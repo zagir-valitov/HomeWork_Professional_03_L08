@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-Console.WriteLine("Work 2\n");
+Console.WriteLine("Home Work Professional 3 (2, 3)\n");
 
 string dirName = @"TextFiles";
 InfoNumberOfSpacesInTextFiles(dirName);

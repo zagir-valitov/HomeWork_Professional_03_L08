@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-Console.WriteLine("Work 1\n");
+Console.WriteLine("Home Work Professional 3 (1, 3)\n");
 
 string dirName = @"TextFiles";
 var stopWatch = new Stopwatch();
